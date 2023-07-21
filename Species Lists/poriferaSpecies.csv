@@ -1,0 +1,106 @@
+id,common,species,valid_AphiaID,worms_name,status,kingdom,phylum,class,order,family,genus,rank,valid_name,listID
+164523,Eleanor's calcareous sponge,Leucosolenia eleanor,164523,Leucosolenia eleanor,accepted,Animalia,Porifera,Calcarea,Leucosolenida,Leucosoleniidae,Leucosolenia,Species,Leucosolenia eleanor,bishop
+133932,simple-rayed membrane sponge,Plakina monolopha,133932,Plakina monolopha,accepted,Animalia,Porifera,Homoscleromorpha,Homosclerophorida,Plakinidae,Plakina,Species,Plakina monolopha,bishop
+170705,encrusting sponge,Spirastrella coccinea,170705,Spirastrella coccinea,accepted,Animalia,Porifera,Demospongiae,Clionaida,Spirastrellidae,Spirastrella,Species,Spirastrella coccinea,bishop
+234383,orange antler sponge,Clathria procera,167770,Clathria (Thalysias) procera,alternate representation,Animalia,Porifera,Demospongiae,Poecilosclerida,Microcionidae,Clathria,Species,Clathria procera,bishop
+168257,stinging tube sponge,Biemna fistulosa,168257,Biemna fistulosa,accepted,Animalia,Porifera,Demospongiae,Biemnida,Biemnidae,Biemna,Species,Biemna fistulosa,bishop
+157391,purple encrusting sponge,Haliclona permollis,166605,Haliclona (Reniera) cinerea,unaccepted,Animalia,Porifera,Demospongiae,Haplosclerida,Chalinidae,Haliclona,Species,Haliclona cinerea,bishop
+132399,hardhead sponge,Spongia irregularis,165192,Spongia (Spongia) hispida,unaccepted,Animalia,Porifera,Demospongiae,Dictyoceratida,Spongiidae,Spongia,Species,Spongia hispida,bishop
+164922,crater sponge,Dysidea arenaria,164922,Dysidea arenaria,accepted,Animalia,Porifera,Demospongiae,Dictyoceratida,Dysideidae,Dysidea,Species,Dysidea arenaria,bishop
+132321,pink sponge,Dysidea avara,132321,Dysidea avara,accepted,Animalia,Porifera,Demospongiae,Dictyoceratida,Dysideidae,Dysidea,Species,Dysidea avara,bishop
+132575,brush horny sponge,Ciocalypta penicillus,132575,Ciocalypta penicillus,accepted,Animalia,Porifera,Demospongiae,Suberitida,Halichondriidae,Ciocalypta,Species,Ciocalypta penicillus,bishop
+236120,sulfur sponge,Aplysilla sulfurea,236120,Aplysilla sulfurea,accepted,Animalia,Porifera,Demospongiae,Dendroceratida,Darwinellidae,Aplysilla,Species,Aplysilla sulfurea,bishop
+132286,NA,Leucetta solida,132286,Leucetta solida,accepted,Animalia,Porifera,Calcarea,Clathrinida,Leucettidae,Leucetta,Species,Leucetta solida,bishop
+164546,NA,Leucosolenia vesicula,164546,Leucosolenia vesicula,accepted,Animalia,Porifera,Calcarea,Leucosolenida,Leucosoleniidae,Leucosolenia,Species,Leucosolenia vesicula,bishop
+1474917,NA,Leuconia kaiana,1475184,Leucandra kaiana,unaccepted,Animalia,Porifera,Calcarea,Baerida,Baeriidae,Leuconia,Species,Leucandra kaiana,bishop
+164455,NA,Heteropia glomerosa,164455,Heteropia glomerosa,accepted,Animalia,Porifera,Calcarea,Leucosolenida,Heteropiidae,Heteropia,Species,Heteropia glomerosa,bishop
+236817,NA,Sycandra coronata,132251,Sycon ciliatum,unaccepted,Animalia,Porifera,Calcarea,Leucosolenida,Grantiidae,Sycandra,Species,Sycon ciliatum,bishop
+194175,NA,Sycandra parvula,164601,Sycon parvulum,unaccepted,Animalia,Porifera,Calcarea,Leucosolenida,Grantiidae,Sycandra,Species,Sycon parvulum,bishop
+194180,NA,Sycandra staurifera,164614,Sycon stauriferum,unaccepted,Animalia,Porifera,Calcarea,Leucosolenida,Grantiidae,Sycandra,Species,Sycon stauriferum,bishop
+169723,NA,Oscarella tenuis,169723,Oscarella tenuis,accepted,Animalia,Porifera,Homoscleromorpha,Homosclerophorida,Oscarellidae,Oscarella,Species,Oscarella tenuis,bishop
+133938,NA,Plakortis simplex,133938,Plakortis simplex,accepted,Animalia,Porifera,Homoscleromorpha,Homosclerophorida,Plakinidae,Plakortis,Species,Plakortis simplex,bishop
+169789,NA,Asteropus kaena,169789,Asteropus kaena,accepted,Animalia,Porifera,Demospongiae,Tetractinellida,Ancorinidae,Asteropus,Species,Asteropus kaena,bishop
+169924,NA,Stelletta debilis,169924,Stelletta debilis,accepted,Animalia,Porifera,Demospongiae,Tetractinellida,Ancorinidae,Stelletta,Species,Stelletta debilis,bishop
+194577,NA,Zaplethea digonoxea,169823,Jaspis digonoxea,unaccepted,Animalia,Porifera,Demospongiae,Tetractinellida,Ancorinidae,Zaplethea,Species,Jaspis digonoxea,bishop
+170061,NA,Erylus caliculatus,170061,Erylus caliculatus,accepted,Animalia,Porifera,Demospongiae,Tetractinellida,Geodiidae,Erylus,Species,Erylus caliculatus,bishop
+170087,NA,Erylus proximus,170087,Erylus proximus,accepted,Animalia,Porifera,Demospongiae,Tetractinellida,Geodiidae,Erylus,Species,Erylus proximus,bishop
+170088,NA,Erylus rotundus,170088,Erylus rotundus,accepted,Animalia,Porifera,Demospongiae,Tetractinellida,Geodiidae,Erylus,Species,Erylus rotundus,bishop
+170092,NA,Erylus sollasi,170092,Erylus sollasi,accepted,Animalia,Porifera,Demospongiae,Tetractinellida,Geodiidae,Erylus,Species,Erylus sollasi,bishop
+170125,NA,Geodia gibberella,170125,Geodia gibberella,accepted,Animalia,Porifera,Demospongiae,Tetractinellida,Geodiidae,Geodia,Species,Geodia gibberella,bishop
+170372,NA,Chondrosia chucalla,170372,Chondrosia chucalla,accepted,Animalia,Porifera,Demospongiae,Chondrosiida,Chondrosiidae,Chondrosia,Species,Chondrosia chucalla,bishop
+134144,NA,Cliona vastifica,157411,Pione vastifica,unaccepted,Animalia,Porifera,Demospongiae,Clionaida,Clionaidae,Cliona,Species,Pione vastifica,bishop
+190003,NA,Anthosigmella valentis,170483,Cliona valentis,unaccepted,Animalia,Porifera,Demospongiae,Clionaida,Clionaidae,Anthosigmella,Species,Cliona valentis,bishop
+170563,NA,Spheciospongia vagabunda,170563,Spheciospongia vagabunda,accepted,Animalia,Porifera,Demospongiae,Clionaida,Clionaidae,Spheciospongia,Species,Spheciospongia vagabunda,bishop
+170711,NA,Spirastrella keaukaha,170711,Spirastrella keaukaha,accepted,Animalia,Porifera,Demospongiae,Clionaida,Spirastrellidae,Spirastrella,Species,Spirastrella keaukaha,bishop
+170776,NA,Prosuberites oleteira,170776,Prosuberites oleteira,accepted,Animalia,Porifera,Demospongiae,Agelasida,Hymerhabdiidae,Prosuberites,Species,Prosuberites oleteira,bishop
+396702,NA,Suberites zeteki,170835,Suberites aurantiacus,unaccepted,Animalia,Porifera,Demospongiae,Suberitida,Suberitidae,Suberites,Species,Suberites aurantiacus,bishop
+170893,NA,Terpios granulosa,1041932,Terpios granulosus,unaccepted,Animalia,Porifera,Demospongiae,Suberitida,Suberitidae,Terpios,Species,Terpios granulosus,bishop
+170950,NA,Tethya diploderma,170950,Tethya diploderma,accepted,Animalia,Porifera,Demospongiae,Tethyida,Tethyidae,Tethya,Species,Tethya diploderma,bishop
+367417,NA,Timea xena,367417,Timea xena,accepted,Animalia,Porifera,Demospongiae,Tethyida,Timeidae,Timea,Species,Timea xena,bishop
+167645,NA,Clathria (Microciona) haematodes,167645,Clathria (Microciona) haematodes,accepted,Animalia,Porifera,Demospongiae,Poecilosclerida,Microcionidae,Clathria,Species,Clathria haematodes,bishop
+168147,NA,Axechina lissa,168147,Axechina lissa,accepted,Animalia,Porifera,Demospongiae,Axinellida,Raspailiidae,Axechina,Species,Axechina lissa,bishop
+167963,NA,Echinodictyum asperum,167963,Echinodictyum asperum,accepted,Animalia,Porifera,Demospongiae,Axinellida,Raspailiidae,Echinodictyum,Species,Echinodictyum asperum,bishop
+236814,NA,Eurypon nigra,168063,Eurypon nigrum,unaccepted,Animalia,Porifera,Demospongiae,Axinellida,Raspailiidae,Eurypon,Species,Eurypon nigrum,bishop
+192321,NA,Lissodendoryx calypta,168944,Lissodendoryx (Lissodendoryx) calypta,alternate representation,Animalia,Porifera,Demospongiae,Poecilosclerida,Coelosphaeridae,Lissodendoryx,Species,Lissodendoryx calypta,bishop
+192692,NA,Naniupi ula,169070,Crella (Pytheas) ula,unaccepted,Animalia,Porifera,Demospongiae,Poecilosclerida,Crellidae,Naniupi,Species,Crella ula,bishop
+169386,NA,Iotrochota protea,169386,Iotrochota protea,accepted,Animalia,Porifera,Demospongiae,Poecilosclerida,Iotrochotidae,Iotrochota,Species,Iotrochota protea,bishop
+133895,NA,Myxilla rosacea,169488,Myxilla (Myxilla) rosacea,alternate representation,Animalia,Porifera,Demospongiae,Poecilosclerida,Myxillidae,Myxilla,Species,Myxilla rosacea,bishop
+168803,NA,Strongylacidon kaneohe,168803,Strongylacidon kaneohe,accepted,Animalia,Porifera,Demospongiae,Poecilosclerida,Chondropsidae,Strongylacidon,Species,Strongylacidon kaneohe,bishop
+168804,NA,Strongylacidon meganese,168804,Strongylacidon meganese,accepted,Animalia,Porifera,Demospongiae,Poecilosclerida,Chondropsidae,Strongylacidon,Species,Strongylacidon meganese,bishop
+194574,NA,Xytopsues zukerani,168814,Strongylacidon zukerani,unaccepted,Animalia,Porifera,Demospongiae,Poecilosclerida,Chondropsidae,Xytopsues,Species,Strongylacidon zukerani,bishop
+1564545,NA,Tedania macrodactyla,169569,Tedania (Tedania) macrodactyla,alternate representation,Animalia,Porifera,Demospongiae,Poecilosclerida,Tedaniidae,Tedania,Species,Tedania macrodactyla,bishop
+194311,NA,Tedania reticulata,169579,Tedania (Tedania) reticulata,alternate representation,Animalia,Porifera,Demospongiae,Poecilosclerida,Tedaniidae,Tedania,Species,Tedania reticulata,bishop
+191112,NA,Esperiopsis anomala,168555,Mycale (Arenochalina) anomala,unaccepted,Animalia,Porifera,Demospongiae,Poecilosclerida,Esperiopsidae,Esperiopsis,Species,Mycale anomala,bishop
+192504,NA,Mycale armata,168632,Mycale (Mycale) grandis,unaccepted,Animalia,Porifera,Demospongiae,Poecilosclerida,Mycalidae,Mycale,Species,Mycale grandis,bishop
+192516,NA,Mycale cecilia,168571,Mycale (Carmia) cecilia,alternate representation,Animalia,Porifera,Demospongiae,Poecilosclerida,Mycalidae,Mycale,Species,Mycale cecilia,bishop
+416453,NA,Mycale contarenii,168526,Mycale (Aegogropila) contarenii,alternate representation,Animalia,Porifera,Demospongiae,Poecilosclerida,Mycalidae,Mycale,Species,Mycale contarenii,bishop
+192551,NA,Mycale maunakea,1479063,Mycale (Carmia) maunakea,alternate representation,Animalia,Porifera,Demospongiae,Poecilosclerida,Mycalidae,Mycale,Species,Mycale maunakea,bishop
+234386,NA,Zygomycale parishii,168699,Mycale (Zygomycale) parishii,unaccepted,Animalia,Porifera,Demospongiae,Poecilosclerida,Mycalidae,Zygomycale,Species,Mycale parishii,bishop
+430396,NA,Homaxinella anamesa,165458,Axinella anamesa,unaccepted,Animalia,Porifera,Demospongiae,Suberitida,Suberitidae,Homaxinella,Species,Axinella anamesa,bishop
+1474900,NA,Phycopsis aculeata,165738,Axinyssa aculeata,unaccepted,Animalia,Porifera,Demospongiae,Axinellida,Axinellidae,Phycopsis,Species,Axinyssa aculeata,bishop
+165680,NA,Liosina paradoxa,165680,Liosina paradoxa,accepted,Animalia,Porifera,Demospongiae,Tethyida,Hemiasterellidae,Liosina,Species,Liosina paradoxa,bishop
+191418,NA,Halichondria coerulea,165807,Halichondria (Halichondria) coerulea,alternate representation,Animalia,Porifera,Demospongiae,Suberitida,Halichondriidae,Halichondria,Species,Halichondria coerulea,bishop
+191437,NA,Halichondria melanadocia,165839,Halichondria (Halichondria) melanadocia,alternate representation,Animalia,Porifera,Demospongiae,Suberitida,Halichondriidae,Halichondria,Species,Halichondria melanadocia,bishop
+165947,NA,Topsentia dura,165947,Topsentia dura,accepted,Animalia,Porifera,Demospongiae,Suberitida,Halichondriidae,Topsentia,Species,Topsentia dura,bishop
+190269,NA,Callyspongia diffusa,166210,Callyspongia (Cladochalina) diffusa,alternate representation,Animalia,Porifera,Demospongiae,Haplosclerida,Callyspongiidae,Callyspongia,Species,Callyspongia diffusa,bishop
+827454,NA,Adocia gellindra,166580,Haliclona (Halichoclona) gellindra,unaccepted,Animalia,Porifera,Demospongiae,Haplosclerida,Chalinidae,Adocia,Species,Haliclona gellindra,bishop
+166371,NA,Haliclona flabellodigitata,166371,Haliclona flabellodigitata,accepted,Animalia,Porifera,Demospongiae,Haplosclerida,Chalinidae,Haliclona,Species,Haliclona flabellodigitata,bishop
+193438,NA,Sigmadocia caerulea,166641,Haliclona (Soestella) caerulea,unaccepted,Animalia,Porifera,Demospongiae,Haplosclerida,Chalinidae,Sigmadocia,Species,Haliclona caerulea,bishop
+194449,NA,Toxadocia violacea,1424384,Haliclona (Gellius) laubenfelsi,unaccepted,Animalia,Porifera,Demospongiae,Haplosclerida,Chalinidae,Toxadocia,Species,Haliclona laubenfelsi,bishop
+166722,NA,Gelliodes fibrosa,166722,Gelliodes fibrosa,accepted,Animalia,Porifera,Demospongiae,Haplosclerida,Niphatidae,Gelliodes,Species,Gelliodes fibrosa,bishop
+192888,NA,Petrosia puna,166857,Petrosia (Petrosia) puna,alternate representation,Animalia,Porifera,Demospongiae,Haplosclerida,Petrosiidae,Petrosia,Species,Petrosia puna,bishop
+165330,NA,Fasciospongia lordii,165330,Fasciospongia lordii,accepted,Animalia,Porifera,Demospongiae,Dictyoceratida,Thorectidae,Fasciospongia,Species,Fasciospongia lordii,bishop
+165088,NA,Coscinoderma denticulatum,165088,Coscinoderma denticulatum,accepted,Animalia,Porifera,Demospongiae,Dictyoceratida,Spongiidae,Coscinoderma,Species,Coscinoderma denticulatum,bishop
+165093,NA,Hippospongia ammata,165093,Hippospongia ammata,accepted,Animalia,Porifera,Demospongiae,Dictyoceratida,Spongiidae,Hippospongia,Species,Hippospongia ammata,bishop
+165099,NA,Hippospongia densa,165099,Hippospongia densa,accepted,Animalia,Porifera,Demospongiae,Dictyoceratida,Spongiidae,Hippospongia,Species,Hippospongia densa,bishop
+193807,NA,Spongia oceania,165219,Spongia (Spongia) oceania,alternate representation,Animalia,Porifera,Demospongiae,Dictyoceratida,Spongiidae,Spongia,Species,Spongia oceania,bishop
+220470,NA,Dysidea herbacea,164988,Lamellodysidea herbacea,unaccepted,Animalia,Porifera,Demospongiae,Dictyoceratida,Dysideidae,Dysidea,Species,Lamellodysidea herbacea,bishop
+132296,NA,Aplysilla rosea,132296,Aplysilla rosea,accepted,Animalia,Porifera,Demospongiae,Dendroceratida,Darwinellidae,Aplysilla,Species,Aplysilla rosea,bishop
+190014,NA,Aplysilla violacea,164869,Chelonaplysilla violacea,unaccepted,Animalia,Porifera,Demospongiae,Dendroceratida,Darwinellidae,Aplysilla,Species,Chelonaplysilla violacea,bishop
+1423737,NA,Dendrilla cactus,164877,Dendrilla cactos,unaccepted,Animalia,Porifera,Demospongiae,Dendroceratida,Darwinellidae,Dendrilla,Species,Dendrilla cactos,bishop
+164994,NA,Pleraplysilla hyalina,164994,Pleraplysilla hyalina,accepted,Animalia,Porifera,Demospongiae,Dictyoceratida,Dysideidae,Pleraplysilla,Species,Pleraplysilla hyalina,bishop
+814727,NA,Druinella purpurea,169702,Pseudoceratina purpurea,unaccepted,Animalia,Porifera,Demospongiae,Verongiida,Pseudoceratinidae,Druinella,Species,Pseudoceratina purpurea,bishop
+820772,NA,Gelliodes wilsoni,820772,Gelliodes wilsoni,accepted,Animalia,Porifera,Demospongiae,Haplosclerida,Niphatidae,Gelliodes,Species,Gelliodes wilsoni,vicente
+169017,NA,Monanchora clathrata,169017,Monanchora clathrata,accepted,Animalia,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Monanchora,Species,Monanchora clathrata,vicente
+409617,NA,Chelonaplysilla erecta,132300,Chelonaplysilla erecta,unaccepted,Animalia,Porifera,Demospongiae,Dendroceratida,Darwinellidae,Chelonaplysilla,Species,Chelonaplysilla erecta,vicente
+192533,NA,Mycale grandis,168632,Mycale (Mycale) grandis,alternate representation,Animalia,Porifera,Demospongiae,Poecilosclerida,Mycalidae,Mycale,Species,Mycale grandis,vicente
+1363611,NA,Lissodendoryx (Waldoschmittia) hawaiiana,1363611,Lissodendoryx (Waldoschmittia) hawaiiana,accepted,Animalia,Porifera,Demospongiae,Poecilosclerida,Coelosphaeridae,Lissodendoryx,Species,Lissodendoryx hawaiiana,vicente
+170558,NA,Spheciospongia solida,170558,Spheciospongia solida,accepted,Animalia,Porifera,Demospongiae,Clionaida,Clionaidae,Spheciospongia,Species,Spheciospongia solida,vicente
+166641,NA,Haliclona (Soestella) caerulea,166641,Haliclona (Soestella) caerulea,accepted,Animalia,Porifera,Demospongiae,Haplosclerida,Chalinidae,Haliclona,Species,Haliclona caerulea,vicente
+410885,NA,Clathria kilauea,167747,Clathria (Thalysias) kilauea,alternate representation,Animalia,Porifera,Demospongiae,Poecilosclerida,Microcionidae,Clathria,Species,Clathria kilauea,bishop
+410891,NA,Clathria maunaloa,167755,Clathria (Thalysias) maunaloa,alternate representation,Animalia,Porifera,Demospongiae,Poecilosclerida,Microcionidae,Clathria,Species,Clathria maunaloa,bishop
+169025,NA,Monanchora unguiculata,169025,Monanchora unguiculata,accepted,Animalia,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Monanchora,Species,Monanchora unguiculata,bishop
+165511,NA,Axinella solenoeides,165511,Axinella solenoeides,accepted,Animalia,Porifera,Demospongiae,Axinellida,Axinellidae,Axinella,Species,Axinella solenoeides,bishop
+165886,NA,Hymeniacidon chloris,165886,Hymeniacidon chloris,accepted,Animalia,Porifera,Demospongiae,Suberitida,Halichondriidae,Hymeniacidon,Species,Hymeniacidon chloris,bishop
+345571,NA,Haliclona aquaeductus,132775,Haliclona (Reniera) aquaeductus,alternate representation,Animalia,Porifera,Demospongiae,Haplosclerida,Chalinidae,Haliclona,Species,Haliclona aquaeductus,bishop
+192858,NA,Pellina eusiphonia,166959,Oceanapia eusiphonia,unaccepted,Animalia,Porifera,Demospongiae,Suberitida,Halichondriidae,Pellina,Species,Oceanapia eusiphonia,bishop
+132378,NA,Hyattella intestinalis,132378,Hyattella intestinalis,accepted,Animalia,Porifera,Demospongiae,Dictyoceratida,Spongiidae,Hyattella,Species,Hyattella intestinalis,bishop
+234209,NA,Tedania klausi,234206,Tedania (Tedania) klausi,alternate representation,Animalia,Porifera,Demospongiae,Poecilosclerida,Tedaniidae,Tedania,Species,Tedania klausi,bishop
+1482429,NA,Mycale parishii,168699,Mycale (Zygomycale) parishii,alternate representation,Animalia,Porifera,Demospongiae,Poecilosclerida,Mycalidae,Mycale,Species,Mycale parishii,bishop
+170835,NA,Suberites aurantiacus,170835,Suberites aurantiacus,accepted,Animalia,Porifera,Demospongiae,Suberitida,Suberitidae,Suberites,Species,Suberites aurantiacus,bishop
+132326,NA,Dysidea pallescens,132326,Dysidea pallescens,accepted,Animalia,Porifera,Demospongiae,Dictyoceratida,Dysideidae,Dysidea,Species,Dysidea pallescens,bishop
+234020,NA,Lamellodysidea chlorea,234020,Lamellodysidea chlorea,accepted,Animalia,Porifera,Demospongiae,Dictyoceratida,Dysideidae,Lamellodysidea,Species,Lamellodysidea chlorea,bishop
+164672,NA,Clathrina luteoculcitella,164672,Clathrina luteoculcitella,accepted,Animalia,Porifera,Calcarea,Clathrinida,Clathrinidae,Clathrina,Species,Clathrina luteoculcitella,vicentev2
+168733,NA,Batzella aurantiaca,168733,Batzella aurantiaca,accepted,Animalia,Porifera,Demospongiae,Poecilosclerida,Chondropsidae,Batzella,Species,Batzella aurantiaca,vicentev2
+169625,NA,Suberea ianthelliformis,169625,Suberea ianthelliformis,accepted,Animalia,Porifera,Demospongiae,Verongiida,Aplysinellidae,Suberea,Species,Suberea ianthelliformis,vicentev2
+169702,NA,Pseudoceratina purpurea,169702,Pseudoceratina purpurea,accepted,Animalia,Porifera,Demospongiae,Verongiida,Pseudoceratinidae,Pseudoceratina,Species,Pseudoceratina purpurea,vicentev2
