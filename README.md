@@ -5,8 +5,8 @@ This repository contains a list of Marine Invertebrates localized to the [Hawaii
 A number of sources were used to compile this list:
 - The Bishop Museum's Marine Invertebrates of the Hawaiian Islands Checklist was the primary source we used which can be accessed [here](http://www2.bishopmuseum.org/HBS/invert/taxa_summary.htm).
 - Invert-E-Base's Marine Invertebrates of Kaneohe Bay Checklist found [here](https://invertebase.org/portal/checklists/checklist.php?clid=14&dynclid=0&pid=6).
-- Ocean Biodiversity Information System's (OBIS) records for the Hawaii Exclusive Economic Zone hosted [here](https://mapper.obis.org/?areaid=268#)
-- Lifewatch's records for the Hawaii Exclusive Economic Zone hosted [here](https://rshiny.vsc.lifewatch.be/standardized_distributions/#tab-7315-2)
+- Ocean Biodiversity Information System's (OBIS) records for the Hawaii Exclusive Economic Zone hosted [here](https://mapper.obis.org/?areaid=268#).
+- Lifewatch's records for the Hawaii Exclusive Economic Zone hosted [here](https://rshiny.vsc.lifewatch.be/standardized_distributions/#tab-7315-2).
 - ARMS Data
 - Various Professionals in their respective fields
 
