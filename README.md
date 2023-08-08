@@ -28,7 +28,7 @@ Once the Bishop Museum data was parsed into the dataframe format, we were then a
 6. Combine all data sources to produce a comprehensive species list of marine invertebrates for the Hawaii EEZ.
 
 ## Reproduction of Results
-Almost all data and code needed to reproduce the marine invertebrate list can be found in this repository. The exception for this is the OBIS dataset which was too large to be stored here. This dataset must be downloaded directly from their data explorer located [here](https://mapper.obis.org/?areaid=268#).
+Almost all data and code needed to reproduce the marine invertebrate list can be found in this repository. The exception for this is the OBIS dataset which was too large to be stored in a Github repository. This dataset must be downloaded directly from their data explorer located [here](https://mapper.obis.org/?areaid=268#).
 
 ## Issues & Contact
 If you find any problems with the list and/or would like to contribute in any way, please feel free to create a pull request, open an issue, or send me a message.
