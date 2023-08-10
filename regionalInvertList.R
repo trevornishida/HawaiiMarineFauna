@@ -7,6 +7,7 @@ library(xml2)
 library(tidyverse)
 library(tools)
 library(readxl)
+source("dataWranglingFuns.R")
 
 # Function that will extract species from HTML files
 # Bishop Museum stored species data in HTML files this function integrates
@@ -33,7 +34,7 @@ bishopProcess <- function(fileName){
 #### Process Bishop Files and Create Master Bishop List ####
 
 # Set working directory and save off names of all files
-setwd("~/Bishop Processing")
+setwd("Species Lists/Bishop Processing/")
 file.list <- dir()
 
 # Apply the bishopProcess function to all files in the directory
@@ -99,10 +100,11 @@ bishopList <- bishopListProcessed %>%
 bishopListSpecies <- bishopList %>% 
   filter(rank == "Species")
 
+setwd("~/Hawaii Invert List")
 
 #### Lifewatch List ####
 
-hiEEZReport <- read.csv("export-standardized-distributions-United-States-Exclusive-Economic-Zone-(Hawaii)-(EEZ)-2023-06-05.csv")
+hiEEZReport <- read.csv("Species Lists/LifewatchList.csv")
 
 # Filter out extinct species and species that have only a single recorded entry
 lifewatchList <- hiEEZReport %>% 
@@ -141,8 +143,11 @@ lifewatchAndBishop <- bishopListSpecies %>%
 
 # Filter out empty species entires and select columns that have the data we 
 # are interested in
+#
+# WILL ERROR NEED TO DOWNLOAD OBIS DATA FROM THE OBIS PORTAL
+# TOO LARGE TO STORE FILE ON GITHUB
 
-hawaiiOBISinverts <- read.csv("HAWAII_OBIS_DATA.csv") %>% 
+hawaiiOBISinverts <- read.csv("Species Lists/HAWAII_OBIS_DATA.csv") %>% 
   dplyr::filter(phylum != "Chordata") %>% 
   dplyr::select(c("scientificname", "originalscientificname", "taxonrank", "aphiaid", 
            "kingdom", "phylum", "class", "order", "family", "genus", "basisofrecord", "id")) %>% 
@@ -170,7 +175,7 @@ unmatchedOBISFilter <- unmatchedOBIS %>%
 
 #### ARMS List ####
 
-armsData <- read_xlsx("~/regional-remix/inputs/species-lists/inverts/ARMS_MarineInverts_ListsGuildFood.xlsx")
+armsData <- read_xlsx("Species Lists/ARMS_MarineInverts_ListsGuildFood.xlsx")
 
 armsSpecies <- armsData %>% 
   select(SCIENTIFICNAME, TROPHIC_GUILD_CODE) %>% 
@@ -187,7 +192,7 @@ armsWoRMS <- armsSpecies %>%
 
 #### InvertBase ####
 
-invertBaseData <- read.csv("~/regional-remix/inputs/species-lists/inverts/InvertBase_Marine Invertebrates of Kaneohe Bay_1685607641.csv")
+invertBaseData <- read.csv("Species Lists/InvertBase_Marine Invertebrates of Kaneohe Bay_1685607641.csv")
 
 invertBaseWoRMS <- invertBaseData %>% 
   filter(!str_starts(ScientificName, "\\[")) %>% 
@@ -201,7 +206,7 @@ invertBaseWoRMS <- invertBaseData %>%
 
 #### Micromollusc List ####
 
-micromolluscs <- read_xlsx("~/regional-remix/inputs/species-lists/inverts/micromollusc_Marta-deMaintenon/Micromollusc species list.xlsx")
+micromolluscs <- read_xlsx("Species Lists/Micromollusc species list.xlsx")
 
 micromolluscWoRMS <- micromolluscs %>% 
   select(Species) %>% 
@@ -214,9 +219,9 @@ micromolluscWoRMS <- micromolluscs %>%
 
 #### Creating full list ####
 
-poriferaList <- read.csv("~/regional-remix/inputs/species-lists/inverts/sponges/poriferaSpecies.csv") %>% 
+poriferaList <- read.csv("Species Lists/poriferaSpecies.csv") %>% 
   rename("AphiaID" = "id")
-cnidariaList <- read.csv("~/regional-remix/inputs/species-lists/inverts/cnidarians/cnidarianSpeciesCSV.csv") %>% 
+cnidariaList <- read.csv("Species Lists/cnidarianSpeciesCSV.csv") %>% 
   rename("scientificname" = "species")
 
 # Combine all lists into one list
@@ -237,7 +242,7 @@ fullInvertList <- lifewatchAndBishop %>%
 
 #### Write out the full list to a CSV file ####
 
-write.csv(fullInvertList, file = "~/regional-remix/inputs/species-lists/inverts/HawaiiInvertList.csv")  
+write.csv(fullInvertList, file = "HawaiiInvertList.csv")  
 
 
 
