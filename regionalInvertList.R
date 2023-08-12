@@ -178,6 +178,7 @@ unmatchedOBISFilter <- unmatchedOBIS %>%
 armsData <- read_xlsx("Species Lists/ARMS_MarineInverts_ListsGuildFood.xlsx")
 
 armsSpecies <- armsData %>% 
+  # 
   select(SCIENTIFICNAME, TROPHIC_GUILD_CODE) %>% 
   mutate(species = str_match(SCIENTIFICNAME, "[A-Z][a-z]+\\W[a-z]+\\b|[A-Z][a-z]+\\b")) %>% 
   mutate(across("species", str_replace, " sp", "")) %>% 
