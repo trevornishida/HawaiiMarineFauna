@@ -1,5 +1,5 @@
-# Hawaii Invertebrate List
-This repository contains a list of Marine Invertebrates localized to the [Hawaii Exclusive Economic Zone](https://www.marineregions.org/gazetteer.php?p=details&id=8453) along with the code used to update taxonomy and consolidate species across all data sources.
+# Hawaii Marine Fauna List
+This repository contains a list of Marine Fauna localized to the [Hawaii Exclusive Economic Zone](https://www.marineregions.org/gazetteer.php?p=details&id=8453) along with the code used to update taxonomy and consolidate species across all data sources.
 
 ## Data Sources
 A number of sources were used to compile this list:
