@@ -60,5 +60,44 @@ allFauna <- invertData %>%
   full_join(fishJoinData) %>% 
   select(!X)
 
+# Adding in local names for species
+# Separating local names list by family, genus, and species names
+localNames = read.csv("local_name_list.csv", na.strings=c("", "NA"))
+localFamilies = localNames %>% filter(!is.na(family)) %>% select(-genus, -species)
+localGenus = localNames %>% filter(!is.na(genus)) %>% select(-family, -species)
+localSpecies = localNames %>% filter(!is.na(species)) %>% select(-family, -genus)
+
+localNamesAdded = allFauna %>% 
+  # First join by family, expecting many-to-many relationship
+  left_join(localFamilies, by = join_by(family),
+            relationship = "many-to-many") %>% 
+  # Take original dataset common name, unless original is blank.
+  mutate(common = coalesce(common.x, common.y)) %>% 
+  # Remove redundant columns
+  select(-common.x, -common.y, -species) %>% 
+  # Repeat for genus
+  left_join(localGenus, by = join_by(genus),
+            relationship = "many-to-many") %>% 
+  mutate(common = coalesce(common.x, common.y),
+         local = coalesce(local.x, local.y),
+         fishery = coalesce(fishery.x, fishery.y)) %>% 
+  select(-common.x, -common.y, -fishery.x, -fishery.y, -local.x, -local.y) %>% 
+  # Prep for joining species
+  rename("species" = valid_name) %>% 
+  # Join species, ignore columns with NA species (family or genus identification)
+  left_join(localSpecies, by = join_by(species),
+            relationship = "many-to-many") %>% 
+  mutate(local = coalesce(local.x, local.y),
+         common = coalesce(common.x, common.y),
+         fishery = coalesce(fishery.x, fishery.y)) %>% 
+  select(-local.x, -local.y, -common.x, -common.y, -fishery.x, -fishery.y)
+
+# Formatting and removing redundant data
+# Preparing for export
+exportFinal = localNamesAdded %>% 
+  select(-locationID:-listID, -TROPHIC_GUILD_CODE) %>% 
+  rename("localName" = local) %>% 
+  relocate(genus, .before = species) 
+
 # Save off marine fauna list to CSV file. 
-write.csv(allFauna, "HawaiiMarineFaunaList.csv", row.names = FALSE)
+write.csv(exportFinal, "HawaiiMarineFaunaList.csv", row.names = FALSE)

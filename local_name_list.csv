@@ -1,0 +1,170 @@
+﻿fishery,family,genus,species,common,local
+Pelagic - Tunas,,,Katsuwonus pelamis,Skipjack,"Aku, Otado, Otaru"
+Pelagic - Tunas,,,Thunnus albacares,Yellowfin Tuna,"'Ahi Y, Koshibi, Shibiko"
+Pelagic - Tunas,,,Thunnus alalunga,Albacore,"'Ahi Palaha, Tombo"
+Pelagic - Tunas,,,Thunnus thynnus,Bluefin Tuna,"Bluefin tuna, Maguro, Ahi"
+Pelagic - Tunas,,,Thunnus obesus,Bigeye Tuna,"Ahi, 'Ahi po'o nui, Daruma"
+Pelagic - Tunas,,,Euthynnus affinis,"Bonito, Mackerel Tuna, Wavyback Skipjack","Kawa, Kawakawa"
+Pelagic - Tunas,,,Auxis thazard,Frigate Mackeral,"'Oi'oi, Keokeo"
+Pelagic - Tunas,,,Sarda orientalis,"Dogtooth Tuna, Oriental Bonito, Striped Bonito","Hagasu, Hagatsuo"
+Pelagic - Billfishes,Istiophoridae,,,Billfish,Mitsukuri
+Pelagic - Billfishes,Xiphiidae,,,Billfish,Mitsukuri
+Pelagic - Billfishes,,,Kajikia audax,Striped Marlin,"A'u, Naragi"
+Pelagic - Billfishes,,,Makaira mazara,Blue Marlin,"A'u B, Kajiki"
+Pelagic - Billfishes,,,Makaira nigricans,Blue Marlin,"A'u B, Kajiki"
+Pelagic - Billfishes,,,Xiphias gladius,Swordfish,"A'u ku, Shutome"
+Pelagic - Billfishes,,,Istiophorus platypterus,Sailfish,"A'u lepe, A'u s"
+Pelagic - Billfishes,,,Tetrapturus angustirostris,Shortbill Spearfish,"A'u, A'u I, Hebi"
+Pelagic - Billfishes,,,Istiompax indica,"Black Marlin, Silver Marlin, White Marlin","A'u, Hida"
+Pelagic - Other Pelagics,,,Coryphaena hippurus,"Dolphinfish, Dorado",Mahimahi
+Pelagic - Other Pelagics,,,Acanthocybium solandri,Wahoo,"Ono, Wahoo"
+Pelagic - Other Pelagics,Exocoetidae,,,Flying Fish,Mālolo
+Pelagic - Other Pelagics,,,Ruvettus pretiosus,"Hawaiian Butterfish, Oilfish",Walu
+Pelagic - Other Pelagics,,,Lampris guttatus,Moonfish,"Manendai, Opah"
+Pelagic - Other Pelagics,,,Eumegistus illustris,Pomfret,"Monchong, Yohando"
+Pelagic - Other Pelagics,,,Taractichthys steindachneri,Pomfret,"Monchong, Yohando"
+Pelagic - Sharks,,Squalus,,Spiny Dogfish Shark,"Gray Reef, Green Eye, Mano (Misc.)"
+Pelagic - Sharks,,Sphyrna,,Hammerhead Shark,"Hammerhead, Manō Kihikihi"
+Pelagic - Sharks,,,Isurus oxyrinchus,Mako Shark,Mako Shark
+Pelagic - Sharks,,,Alopias vulpinus,Thresher Shark,Manō'ula
+Pelagic - Sharks,,,Galeocerdo cuvier,Tiger Shark,Niuhi
+Pelagic - Sharks,,,Triaenodon obesus,Whitetip Reef Shark,Manō lālā kea
+Pelagic - Sharks,,Isurus,,Mako shark,Mako shark
+Pelagic - Sharks,,,Alopias vulpinus,Thresher Shark,Thresher Shark
+Pelagic - Sharks,,,Prionace glauca,Blue shark,Blue shark
+Pelagic - Sharks,,,Carcharhinus longimanus,Oceanic whitetip shark,Oceanic whitetip shark
+Bottomfish Deep 7,,,Hyporthodus quernus,"Hawaiian Black Grouper, Hawaiian Grouper, Sea Bass","Hāpu'u, Hāpu'upu'u, Shapon"
+Bottomfish Deep 7,,,Pristipomoides sieboldii,Pink Snapper,"Kalekale, Kalikali, Lavender jobfish"
+Bottomfish Deep 7,,,Pristipomoides filamentosus,Pink Snapper,'Opakapaka
+Bottomfish Deep 7,,,Etelis carbunculus,Red Snapper,"Ehu, 'Ula'ula"
+Bottomfish Deep 7,,,Etelis coruscans,Longtail Red Snapper,"Onaga, Ulaula, Ulu, Buninas, Taighulupegh, Longtail snapper"
+Bottomfish Deep 7,,,Aphareus rutilans,Silverjaw Snapper,Lehi
+Bottomfish Deep 7,,,Pristipomoides zonatus,Oblique-banded Snapper,"'Ukikiki, Gindai, Tai"
+Nearshore - Barracudas,,,Sphyraena barracuda,Great Barracuda,Kākū
+Nearshore - Barracudas,,,Sphyraena helleri,"Heller's Barracuda, Japanese Barracuda","Kamasu, Kawale'ā"
+Nearshore - Eels,Muraenidae,,,Eel,Puhi
+Nearshore - Eels,,Gymnothorax,,Moray Eel,"Puhi, Puhi (Black/Brown), Puhi Paka"
+Nearshore - Eels,Congridae,,,"Conger Eel, Garden Eel, White Eel","Puhi, Tohei"
+Nearshore - Goatfishes,,,Mulloidichthys pfluegeri,"Orange Goatfish, Pfluger's Goatfish","Aka Weke, Moilua, Weke 'Ula, Weke Moelua, Weke Nono"
+Nearshore - Goatfishes,,,Parupeneus porphyreus,White Saddle Goatfish,Kūmū
+Nearshore - Goatfishes,,Parupeneus,,Goatfish,"Moana, Moana Maru, Moano"
+Nearshore - Goatfishes,Mullidae,,,Goatfish,"Green Weke, Oama, Sand Weke, Weke"
+Nearshore - Goatfishes,,,Parupeneus pleurostigma,Sidespot Goatfish,"Malu, Maru, Moano"
+Nearshore - Goatfishes,,,Parupeneus trifasciatus,Doublebar Goatfish,"Joe Louis, Munu"
+Nearshore - Goatfishes,,,Upeneus taeniopterus,Bandtail Goatfish,"Nightmare Weke, Obake Weke, Weke Pueo"
+Nearshore - Goatfishes,,,Mulloidichthys vanicolensis,Yellowfin Goatfish,"Red Stripe Goatfish, Red Weke, Weke 'Ula"
+Nearshore - Goatfishes,,,Mulloidichthys flavolineatus,"Square-Spot Goatfish, Yellowstripe Goatfish","Sand Weke, Weke a'a, Weke'ā, White Weke"
+Nearshore - Goatfishes,,,Parupeneus cyclostomus,"Blue Goatfish, Yellowsaddle Goatfish","Anahuli, Aoweke, Moana Kea, Moana Pāpā, Moano Kea, Moano Ukali Ulua"
+Nearshore - Mullets,,,Mugil cephalus,"Flathead Grey Mullet, Striped Mullet","'Ama'ama, Pua"
+Nearshore - Mullets,,,Osteomugil engeli,"Australian Mullet, Summer Mullet",Kanda
+Nearshore - Mullets,,,Moolgarda engeli,"Australian Mullet, Summer Mullet",Kanda
+Nearshore - Mullets,,,Neomyxus leuciscus,"False Mullet, Sharpnose Mullet","False 'Ama'ama, Uouoa"
+Nearshore - Other,Belonidae,,,Needlefish,"'Aha, 'Aha Mele, 'Aha'aha, Bluebone, Dasu"
+Nearshore - Other,,,Kuhlia sandvicensis,"Hawaiian Flagtail, Mountainbass, Perch",Āholehole
+Nearshore - Other,,,Chanos chanos,Milkfish,"Awa, Bangos"
+Nearshore - Other,,,Elops hawaiensis,Hawaiian Ladyfish,"'Awa 'awa, Awa 'aua, Hawaiian Tarpon, Hawaiian Tenpounder"
+Nearshore - Other,,,Heteropriacanthus cruentatus,"Glasseye Snapper, Hawaiian Bigeye","Āweoweo, 'Āweoweo (Nearshore), Big Eye"
+Nearshore - Other,Dasyatidae,,,"Eagle Ray, Sting Ray",Hīhīmanu
+Nearshore - Other,Balistidae,,,Triggerfish,Humuhumu
+Nearshore - Other,,,Atherinomorus insularum,Hawaiian Silverside,'Iao
+Nearshore - Other,Hemiramphidae,,,Halfbeak,"Iheihe, Sayori"
+Nearshore - Other,,,Zanclus cornutus,Moorish Idol,Kihikihi
+Nearshore - Other,,,Abudefduf sordidus,"Blackspot Sergeant, Damselfish",Kūpīpī
+Nearshore - Other,,,Chaetodon miliaris,Millet Butterflyfish,Lauwiliwili
+Nearshore - Other,,,Abudefduf abdominalis,"Hawaiian Sergeant, Sergeant Major","Ma'o Ma'o, Mamo"
+Nearshore - Other,,,Etrumeus micropus,Sardine,Makiawa
+Nearshore - Other,,,Polydactylus sexfilis,Threadfin,"Moi, Moi-li'i"
+Nearshore - Other,,,Monotaxis grandoculis,Bigeye Emperor,"Big Eye, Medai, Mū, Porgy"
+Nearshore - Other,,,Encrasicholina purpurea,Anchovy,Nehu
+Nearshore - Other,,,Kyphosus bigibbus,"Chub, Rudderfish","Enenue, Nenue"
+Nearshore - Other,,,Kyphosus cinerascens,"Chub, Rudderfish","Enenue, Nenue"
+Nearshore - Other,,Scorpaenopsis,,Scorpionfish,"Nohu, Okoze"
+Nearshore - Other,,,Aulostomus chinensis,"Cornetfish, Stickfish, Trumpetfish",Nūnū
+Nearshore - Other,Monacanthidae,,,Filefish,"'Ō'ili, 'Ō'ili Lepa, Broomtail, Hage, Loulu"
+Nearshore - Other,,,Albula glossodonta,Bonefish,'Ō'io
+Nearshore - Other,,Mesoplodon,,"Balloonfish, Porcupinefish, Pufferfish","'O'opu Hue, Fugu, Kōkala"
+Nearshore - Other,,Bothus,,"Flatfish, Flounder",Pāki'i
+Nearshore - Other,,,Spratelloides delicatulus,Delicate Roundherring,Piha
+Nearshore - Other,,,Pristiapogon kallopterus,Cardinalfish,"'Upāpalu, Moonlight Annie"
+Nearshore - Other,,,Mola mola,"Ocean Sunfish, Slender Sunfish",Mola mola
+Nearshore - Other,,,Scomber japonicus,Japanese Mackerel,Saba
+Nearshore - Other,,Tilapia,,Tilapia,"Cichlid, Tilapia"
+Nearshore - Other,,Cirrhitus,,Hawkfish,Po'opa'a
+Nearshore - Other,,,Oplegnathus punctatus,Spotted Knifejaw,"Ishigakidai, Jabberjaw"
+Nearshore - Other,,,Oplegnathus fasciatus,Barred Knifejaw,"Ishidai, Jabberjaw"
+Nearshore - Other,,,Herklotsichthys quadrimaculatus,Gold-spot Herring,Gold spot herring
+Nearshore - Parrotfishes,,,Calotomus carolinus,Stareye Parrotfish,"Panuhunuhu, Sleeping Uhu, Uhu"
+Nearshore - Parrotfishes,,,Scarus psittacus,Palenose Parrotfish,"Panunu, Uhu"
+Nearshore - Parrotfishes,Scaridae,,,Parrotfish (Misc.),"Fuga, Uhu, Uhu (Misc.)"
+Nearshore - Scads,,,Selar crumenophthalmus,Bigeye Scad,"Akule, Hahalalu (juvenile), Bigeye Scad"
+Nearshore - Scads,,,Decapterus macarellus,Mackerel Scad,"'Ōpelu, Muroaji"
+Nearshore - Scads,,,Sphyraena barracuda,Butternose,'Ōpelu Māmā
+Nearshore - Scads,,,Decapterus macarellus,Butternose,'Ōpelu Māmā
+Nearshore - Snappers/Groupers,,,Aphareus furca,Forktail Snapper,"Gurutsu, Hanui, Joey Brown, Wahanui"
+Nearshore - Snappers/Groupers,,,Lutjanus kasmira,Bluestripe Snapper,Ta'ape
+Nearshore - Snappers/Groupers,,,Lutjanus fulvus,"Blacktail Snapper, Golden Perch",To'au
+Nearshore - Snappers/Groupers,,,Cephalopholis argus,"Peacock Grouper, Royal Sea Bass",Roi
+Nearshore - Snappers/Groupers,,,Aphareus furca,Forktail Snapper,"Gurutsu, Hanui, Joey Brown, Wahanui"
+Nearshore - Squirrelfishes,,,Sargocentron xantherythrum,"Hawaiian Squirrelfish, Indianfish",'Ala'ihi
+Nearshore - Squirrelfishes,Holocentrinae,,,Squirrelfish,"'Ala'ihi, Pauu"
+Nearshore - Squirrelfishes,,Myripristis,,Squirrelfish,"'Ū'ū, Menpachi"
+Nearshore - Squirrelfishes,,,Sargocentron spiniferum,Longjaw Squirrelfish,"'Ala'ihi, Uukanipo"
+Nearshore - Surgeonfishes,,,Ctenochaetus strigosus,Goldring Surgeonfish,"Kole, Yellow Eye Kole"
+Nearshore - Surgeonfishes,,,Acanthurus nigrofuscus,"Brown Surgeonfish, Lavendar Tang","Alibangbang, Fork Tail, Ma'i'i'i, Maiil"
+Nearshore - Surgeonfishes,,,Acanthurus nigroris,Blueline Surgeonfish,Maiko
+Nearshore - Surgeonfishes,,,Acanthurus leucopareius,Whitebar Surgeonfish,Māikoiko
+Nearshore - Surgeonfishes,,,Acanthurus triostegus,Convict Tang,Manini
+Nearshore - Surgeonfishes,,,Acanthurus olivaceus,"Olive Tang, Orangeband Surgeonfish",Na'ena'e
+Nearshore - Surgeonfishes,,,Zebrasoma flavescens,Yellow Tang,"Lau'īpala, Yellow Manini"
+Nearshore - Surgeonfishes,,,Acanthurus achilles,Achilles Tang,Pāku'iku'i
+Nearshore - Surgeonfishes,,,Acanthurus dussumieri,Eyestripe Surgeonfish,"Palani, Pone"
+Nearshore - Surgeonfishes,,,Acanthurus blochii,Ringtail Surgeonfish,Pualu
+Nearshore - Surgeonfishes,,, Acanthurus xanthopterus,Yellowfin Surgeonfish,Pualu
+Nearshore - Surgeonfishes,,,Acanthurus guttatus,Whitespotted Surgeonfish,"'Api, Mustard Tang"
+Nearshore - Surgeonfishes,,,Ctenochaetus hawaiiensis,Black Surgeonfish,Black Kole
+Nearshore - Unicornfishes,,,Naso annulatus,Unicornfish,Kala
+Nearshore - Unicornfishes,,,Naso brevirostris,Unicornfish,Kala
+Nearshore - Unicornfishes,,,Naso unicornis,Unicornfish,Kala
+Nearshore - Unicornfishes,,,Naso hexacanthus,Sleek Unicornfish,"'Ōpelu Kala, Kala Holo, Six Spined Surgeon"
+Nearshore - Unicornfishes,,,Naso lituratus,"Naso Tang, Orangespine Unicornfish","Clown Tang, Kalalei, Orange Lip Surgeon, Umauma lei"
+Nearshore - Wrasses,,,Bodianus bilunulatus,"Hawaiian Hogfish, Tableboss","A'awa,Hawaiian hogfish, Table boss, Bodai, Aia, Aeea"
+Nearshore - Wrasses,Labridae,,,Wrasse,Ea
+Nearshore - Wrasses,,,Coris flavovittata,Blackstripe Coris Wrasse,Hilu
+Nearshore - Wrasses,,Thalassoma,,Wrasse,Hīnālea
+Nearshore - Wrasses,,,Cheilio inermis,"Cigar Wrasse, Mongoose Fish","Alligator Wrasse, Banana Wrasse, Kūpou, Kūpoupou, Mongoose Wrasse"
+Nearshore - Wrasses,,,Iniistius pavo,Peacock Razorfish,"Laenihi, Nabeta, Razorback Wrasse, Razorfin Wrasse"
+Nearshore - Wrasses,,,Anampses cuvier,Pearl Wrasse,"'Opule, Snowflake Wrasse"
+Nearshore - Wrasses,,,Cheilinus undulatus,"Humphead Wrasse, Napoleon Wrasse","Malatea, Maratea"
+Nearshore - Wrasses,,,Oxycheilinus unifasciatus,Ringtail Wrasse,Po'ou
+Nearshore,,,Caranx melampygus,Bluefin Trevally,"'Ōmilu, Hoshi Ulua, Nukumomi, Star Ulua"
+Nearshore,Carangidae,,,Ulua,"Pāpio, Ulua"
+Nearshore,,,Gempylus serpens,Snake Mackerel,Hauliuli
+Nearshore,,,Elagatis bipinnulata,"Hawaiian Salmon, Rainbow Runner, Spanish Jack",Kamanu
+Nearshore,,,Scomberoides lysan,"Leatherback, Queenfish",Lai
+Nearshore,Exocoetidae,,,Flying Fish,Mālolo
+Nearshore,,Albula,,Bonefish,"Oio, Ola (unspecified)"
+Nearshore,,,Atule mate,Yellowtail Scad,'Omaka
+Nearshore,,,Gnathanodon speciosus,"Golden Trevally, Yellow Ulua","Pa'opa'o, Striped Ulua"
+Nearshore,,,Alectis ciliaris,Pompano,"Kagami, Ulua Kihikihi"
+Nearshore,,,Uraspis helvola,Whitetongue Jack,"Dobe Ulua, Dusky"
+Nearshore,,,Caranx sexfasciatus,"Bigeye Jack, Bigeye Trevally","Pake Ulua, Sasa"
+Nearshore,,,Carangoides orthogrammus,Island Jack,"Pāpā, Ulua"
+Nearshore,,,Randallichthys filamentosus,Randall'S Snapper,Randall's snapper; Bake-akamutsu
+Nearshore,,,Erythrocles schlegelii,Golden Kali,"Golden kale, Schlegel's boga fish, Yanaginomai"
+Nearshore,,,Erythrocles scintillans,Golden Kali,"Golden kale, Schlegel's boga fish, Yanaginomai"
+Nearshore,,,Carangoides equula,Whitefin Trevally,"No-Bite, Schleger's Jack"
+Nearshore,,,Carangoides ferdau,Barred Jack,Ulua
+Nearshore,,,Pontinus macrocephalus,Large-Headed Scorpionfish,Hogo
+Nearshore,,,Carpilius maculatus,Crab (Misc.),"7-11 crab, Stone crab"
+Nearshore,,,Portunus hawaiiensis,Kuahonu Crab,Kuahonu/White/Koha/Swimming crab
+Nearshore,,,Podophthalmus vigil,Hawaiian Crab,"Hawaiian red crab, Long-eyed swimming crab, Moala"
+Nearshore,,,Scylla serrata,Samoan Crab,Samoan/Mangrove crab
+Nearshore,,,Macrobrachium lar,Misc. Shrimp/Prawn,"Tahitian/Freshwater prawn, black shrimp"
+Nearshore,,,Grapsus tenuicrustatus,Black crab,A'Ama
+Nearshore,,,Thalamita crenata,Blue Pincher Crab,"Blue pincher crab, Swimming crab"
+Nearshore,,,Halocaridina rubra,Red shrimp,Opae ula
+Nearshore,,,Metabetaeus lohena,Metabetaeus Lohena,Opae lolo
+Nearshore,,,Tellina palatum,Hawaiian clam,Olepe
+Nearshore,,Octopus,,Octopus,"Tako, Octopus, He'e, Fe'e,  He'e mauli, He'e puloa, Makoko"
+Nearshore,,Nerita,,Nerita snail,Pupu
+Nearshore,Synaptidae,,,Sea cucumber,"Sea cucumber, Loli/Lole, Namako"
