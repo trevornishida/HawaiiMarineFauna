@@ -96,6 +96,8 @@ localNamesAdded = allFauna %>%
 # Preparing for export
 exportFinal = localNamesAdded %>% 
   select(-locationID:-listID, -TROPHIC_GUILD_CODE) %>% 
+  relocate(worms_name, .before = valid_AphiaID) %>% 
+  relocate(rank, .before = kingdom) %>% 
   rename("localName" = local) %>% 
   relocate(genus, .before = species) 
 
