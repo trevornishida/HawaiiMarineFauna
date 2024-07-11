@@ -10,6 +10,7 @@ A number of sources were used to compile this list:
 - ARMS Data
 - Various Professionals in their respective fields
 - Local Names were sourced from the [2022 Ecosystem Status Report for Hawaii](https://repository.library.noaa.gov/view/noaa/49331) (Appendix A1)
+- NOAA's Pacific Island Region Cetacean Research Program for Marine Mammals
 
 ## Processing Bishop Museum's Species Checklist
 The Bishop Museum list used as the primary source came as raw text data stored in `.htm` files. These files were last updated in 2001 according to their website. The first step in creating the list was parsing the raw text into a more user-friendly format. 
