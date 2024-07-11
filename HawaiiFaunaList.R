@@ -2,6 +2,7 @@
 # Sources: Bishop Museum, Lifewatch.be, Ocean Biodiversity Information System
 # InverteBase, ARMS, Various professionals
 # Compiled August 2023
+# Updated July 2024
 
 library(tidyverse)
 source("dataWranglingFuns.R")
@@ -58,7 +59,7 @@ fishJoinData <- fishWormsData %>%
 # Combine fish data with invert data to create comprehensive marine fauna list
 allFauna <- invertData %>% 
   full_join(fishJoinData) %>% 
-  select(!X)
+  select(!X) 
 
 # Adding in local names for species
 # Separating local names list by family, genus, and species names
@@ -66,6 +67,18 @@ localNames = read.csv("local_name_list.csv", na.strings=c("", "NA"))
 localFamilies = localNames %>% filter(!is.na(family)) %>% select(-genus, -species)
 localGenus = localNames %>% filter(!is.na(genus)) %>% select(-family, -species)
 localSpecies = localNames %>% filter(!is.na(species)) %>% select(-family, -genus)
+
+# Add Marine Mammals (July 2024)
+mammals = readxl::read_xlsx(path = "Species Lists/MarineMammals_PacificIslandsRegion.xlsx") %>% 
+  rename("species" = "Scientific Name",
+         "common" = "Common Name") %>% 
+  select("species", "common") %>% 
+  # CRP = Cetacean Research Program
+  mutate(origin = "CRP")
+
+# Pull taxonomy from WoRMS and join with original dataset for common names
+mammalsWorms = wormsProcess(mammals, ColOfInterest) %>% 
+  left_join(mammals, by = join_by("scientificname" == "species"))
 
 localNamesAdded = allFauna %>% 
   # First join by family, expecting many-to-many relationship
@@ -90,7 +103,8 @@ localNamesAdded = allFauna %>%
   mutate(local = coalesce(local.x, local.y),
          common = coalesce(common.x, common.y),
          fishery = coalesce(fishery.x, fishery.y)) %>% 
-  select(-local.x, -local.y, -common.x, -common.y, -fishery.x, -fishery.y)
+  select(-local.x, -local.y, -common.x, -common.y, -fishery.x, -fishery.y) %>% 
+  full_join(mammalsWorms)
 
 # Formatting and removing redundant data
 # Preparing for export
