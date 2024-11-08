@@ -113,7 +113,8 @@ exportFinal = localNamesAdded %>%
   relocate(worms_name, .before = valid_AphiaID) %>% 
   relocate(rank, .before = kingdom) %>% 
   rename("localName" = local) %>% 
-  relocate(genus, .before = species) 
+  relocate(genus, .before = species) %>% 
+  arrange(worms_name)
 
 # Save off marine fauna list to CSV file. 
 write.csv(exportFinal, "HawaiiMarineFaunaList.csv", row.names = FALSE)
