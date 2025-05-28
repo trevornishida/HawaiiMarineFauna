@@ -78,7 +78,8 @@ mammals = readxl::read_xlsx(path = "Species Lists/MarineMammals_PacificIslandsRe
 
 # Pull taxonomy from WoRMS and join with original dataset for common names
 mammalsWorms = wormsProcess(mammals, ColOfInterest) %>% 
-  left_join(mammals, by = join_by("scientificname" == "species"))
+  left_join(mammals, by = join_by("scientificname" == "species")) %>% 
+  rename("species" = "valid_name")
 
 localNamesAdded = allFauna %>% 
   # First join by family, expecting many-to-many relationship
